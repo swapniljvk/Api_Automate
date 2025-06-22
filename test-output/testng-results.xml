@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-15T13:08:30 IST" name="Default suite" finished-at="2025-06-15T13:08:32 IST" duration-ms="2299">
+    <groups>
+    </groups>
+    <test started-at="2025-06-15T13:08:30 IST" name="Default test" finished-at="2025-06-15T13:08:32 IST" duration-ms="2299">
+      <class name="pri.api.Test.DifferentWaysOfCreatePostRequestBody">
+        <test-method signature="PostbyExternalJson()[pri:4, instance:pri.api.Test.DifferentWaysOfCreatePostRequestBody@31304f14]" started-at="2025-06-15T13:08:30 IST" name="PostbyExternalJson" finished-at="2025-06-15T13:08:32 IST" duration-ms="2240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostbyExternalJson -->
+      </class> <!-- pri.api.Test.DifferentWaysOfCreatePostRequestBody -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
