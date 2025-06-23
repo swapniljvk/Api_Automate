@@ -16,7 +16,7 @@ import java.io.FileReader;
 import java.util.HashMap;
 
 public class DifferentWaysOfCreatePostRequestBody {
-//	@Test (priority=1)
+	@Test (priority=1)
 	public void HashNap()
 	{
 		HashMap data = new HashMap();
@@ -42,7 +42,7 @@ public class DifferentWaysOfCreatePostRequestBody {
 		
 	}
 	//delete record
-//	@Test (priority=2)
+	@Test (priority=2)
 	void DeleteRecord()
 	{
 		
